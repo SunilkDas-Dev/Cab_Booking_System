@@ -1,7 +1,7 @@
 # 🚖 Cab Booking System
 
 A simple **Cab Booking System** built in Java to simulate booking and managing cab rides.  
-This project demonstrates concepts like **OOP (Object-Oriented Programming)**, **Collections Framework**, and **Exception Handling** in Java.
+This project demonstrates concepts like **OOP (Object-Oriented Programming)**, **Collections Framework**, and **Exception Handling**  and **MultiThreading** in java.
 
 ---
 
