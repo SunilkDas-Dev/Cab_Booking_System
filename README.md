@@ -27,7 +27,9 @@ This project demonstrates concepts like **OOP (Object-Oriented Programming)**, *
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/SunilkDas-Dev/Cab_Booking_System.git
-cd Cab_Booking_System
+------ Cab Booking Menu ------
+1. Add Customer
+2. Book a Cab
+3. View Bookings
+4. Exit
+Enter your choice:
